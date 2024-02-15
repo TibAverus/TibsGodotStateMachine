@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Godot;
 
-namespace StateMachine
+namespace TibsFiniteStateMachine
 {
     public partial class FsmState : Node, IFsmState
     {

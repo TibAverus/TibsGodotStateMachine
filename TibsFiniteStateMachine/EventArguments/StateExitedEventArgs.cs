@@ -1,4 +1,4 @@
-﻿namespace StateMachine.EventArguments
+﻿namespace TibsFiniteStateMachine.EventArguments
 {
     public class StateExitedEventArgs
     {

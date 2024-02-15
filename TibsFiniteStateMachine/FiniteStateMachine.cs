@@ -2,9 +2,9 @@
 using System;
 using System.Linq;
 using System.Collections.Generic;
-using Reachtheoutput2.Scripts.StateMachine.EventArguments;
+using TibsFiniteStateMachine.EventArguments;
 
-namespace StateMachine
+namespace TibsFiniteStateMachine
 {
 	public partial class FiniteStateMachine : Node
 	{

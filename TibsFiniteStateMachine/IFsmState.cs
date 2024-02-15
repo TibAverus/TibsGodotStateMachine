@@ -1,6 +1,6 @@
 ﻿using Godot;
 
-namespace StateMachine
+namespace TibsFiniteStateMachine
 {
     public interface IFsmState
     {
